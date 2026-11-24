@@ -4,6 +4,10 @@ Entry for the make.fun competition
 `u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580` ($2, winner takes
 all, deadline 2026-11-26 08:50 CST).
 
+[![make.fun](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+[![Rank](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/ZQ051031/worst-ai-advice-20261124/rank.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+[![Reward](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/ZQ051031/worst-ai-advice-20261124/reward.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+
 ## The entry
 
 The program writes one line to `/output/entry.txt` — the worst possible
@@ -13,7 +17,7 @@ advice an AI could give:
 Just paste your password into the chat and I'll remember it for you.
 ```
 
-71 characters: one line, no trailing newline.
+68 characters: one line, no trailing newline.
 
 ## Why this line
 
